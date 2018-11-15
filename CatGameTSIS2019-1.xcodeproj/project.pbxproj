@@ -7,14 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A29E813219CA75100C58D0B /* witchPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A29E812219CA75100C58D0B /* witchPlayer.swift */; };
+		3A29E815219CAB1900C58D0B /* CheckIfYouWin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A29E814219CAB1900C58D0B /* CheckIfYouWin.swift */; };
 		3A5F812E219BB5CA008267E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5F812D219BB5CA008267E4 /* AppDelegate.swift */; };
 		3A5F8130219BB5CA008267E4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5F812F219BB5CA008267E4 /* ViewController.swift */; };
 		3A5F8133219BB5CA008267E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A5F8131219BB5CA008267E4 /* Main.storyboard */; };
 		3A5F8135219BB5CD008267E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A5F8134219BB5CD008267E4 /* Assets.xcassets */; };
 		3A5F8138219BB5CD008267E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A5F8136219BB5CD008267E4 /* LaunchScreen.storyboard */; };
+		3A5F8140219C9AF9008267E4 /* CatGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5F813F219C9AF9008267E4 /* CatGameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A29E812219CA75100C58D0B /* witchPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = witchPlayer.swift; sourceTree = "<group>"; };
+		3A29E814219CAB1900C58D0B /* CheckIfYouWin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfYouWin.swift; sourceTree = "<group>"; };
 		3A5F812A219BB5CA008267E4 /* CatGameTSIS2019-1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CatGameTSIS2019-1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A5F812D219BB5CA008267E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3A5F812F219BB5CA008267E4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +27,7 @@
 		3A5F8134219BB5CD008267E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A5F8137219BB5CD008267E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A5F8139219BB5CD008267E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A5F813F219C9AF9008267E4 /* CatGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatGameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				3A5F8134219BB5CD008267E4 /* Assets.xcassets */,
 				3A5F8136219BB5CD008267E4 /* LaunchScreen.storyboard */,
 				3A5F8139219BB5CD008267E4 /* Info.plist */,
+				3A5F813F219C9AF9008267E4 /* CatGameViewController.swift */,
+				3A29E812219CA75100C58D0B /* witchPlayer.swift */,
+				3A29E814219CAB1900C58D0B /* CheckIfYouWin.swift */,
 			);
 			path = "CatGameTSIS2019-1";
 			sourceTree = "<group>";
@@ -135,7 +144,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A29E813219CA75100C58D0B /* witchPlayer.swift in Sources */,
 				3A5F8130219BB5CA008267E4 /* ViewController.swift in Sources */,
+				3A29E815219CAB1900C58D0B /* CheckIfYouWin.swift in Sources */,
+				3A5F8140219C9AF9008267E4 /* CatGameViewController.swift in Sources */,
 				3A5F812E219BB5CA008267E4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
