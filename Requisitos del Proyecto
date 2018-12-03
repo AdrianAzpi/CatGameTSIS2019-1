@@ -1,0 +1,37 @@
+Para la entrega de este proyecto se deben de seguir lo mas posible las siguientes rubricas.
+
+**Objetivo**
+    Desarrollar una aplicación del juego de Gato usando como backend la plataforma de AWS
+
+**Descripción**
+    El juego se jugará entre 2 personas utilizando una app móvil para cualquiera de las dos plataformas (iOS o Android) conectados al backend mediante http.
+
+**Criterios de Calificación**
+   El proyecto es individual
+    El juego debe funcionar
+    El código y documentación debe estar alojado y versionado en GIT (repositorios de la clase)
+    El codigo del backend puede ser en cualquier lenguaje de programación soportado por AWS
+    El backend deberá utilizar API Gateway como mecanismo de comunicación usando JSON y función(es) Lambda
+    No requiere guardar información entre sesiones (sin capa de persistencia)
+    Se debe de poder definir el nombre de los jugadores
+    Se define el primero en jugar mediante un “volado” 
+    Se pueden jugar a 5 partidas
+    El ganador de la partida anterior empieza la siguiente
+    La interfaz puede ser gráfica+ o de texto con representación del tablero en forma semi-gráfica (version gráfica de consola)
+    La documentación deberá contener
+        Definición del proyecto
+        Requerimientos funcionales y no funcionales
+        Análisis del problema
+        Diseño
+            algoritmos
+            diagramas de clase y paquetes (UML)
+            diagramas de actividades y casos de uso (UML)
+            definición de los objetos serializados de interfaz (JSON de entrada y salida)
+        Diseño de interfases de usuario
+        Control de versiones
+        Demo en clase
+
+**Fecha de entrega**
+     ̶D̶e̶m̶o̶s̶ ̶y̶ ̶e̶n̶t̶r̶e̶g̶a̶ ̶e̶l̶ ̶3̶0̶ ̶d̶e̶ ̶n̶o̶v̶i̶e̶m̶b̶r̶e̶
+     Primer entrega el martes 4 de Diciembre
+    Posibilidad de extensión posterior a presentación de avances durante la semana de 5 al 7 de diciembre
