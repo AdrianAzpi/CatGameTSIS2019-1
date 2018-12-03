@@ -4,7 +4,8 @@ Objetivo
     Desarrollar una aplicación del juego de Gato usando como backend la plataforma de AWS
 
 Descripción
-    El juego se jugará entre 2 personas utilizando una app móvil para cualquiera de las dos plataformas (iOS o Android) conectados al backend mediante http.
+    El juego se jugará entre 2 personas utilizando una app móvil para cualquiera de 
+    las dos plataformas (iOS o Android) conectados al backend mediante http.
 
 Criterios de Calificación
    El proyecto es individual ✓
