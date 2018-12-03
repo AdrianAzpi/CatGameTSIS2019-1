@@ -1,23 +1,23 @@
 Para la entrega de este proyecto se deben de seguir lo mas posible las siguientes rubricas.
 
-__Objetivo__
+Objetivo
     Desarrollar una aplicación del juego de Gato usando como backend la plataforma de AWS
 
-**Descripción**
+Descripción
     El juego se jugará entre 2 personas utilizando una app móvil para cualquiera de las dos plataformas (iOS o Android) conectados al backend mediante http.
 
 **Criterios de Calificación**
-   El proyecto es individual
-    El juego debe funcionar
-    El código y documentación debe estar alojado y versionado en GIT (repositorios de la clase)
-    El codigo del backend puede ser en cualquier lenguaje de programación soportado por AWS
-    El backend deberá utilizar API Gateway como mecanismo de comunicación usando JSON y función(es) Lambda
-    No requiere guardar información entre sesiones (sin capa de persistencia)
-    Se debe de poder definir el nombre de los jugadores
-    Se define el primero en jugar mediante un “volado” 
-    Se pueden jugar a 5 partidas
-    El ganador de la partida anterior empieza la siguiente
-    La interfaz puede ser gráfica+ o de texto con representación del tablero en forma semi-gráfica (version gráfica de consola)
+   El proyecto es individual ✓
+    El juego debe funcionar ✓
+    El código y documentación debe estar alojado y versionado en GIT (repositorios de la clase). ≈≈
+    El codigo del backend puede ser en cualquier lenguaje de programación soportado por AWS ✓
+    El backend deberá utilizar API Gateway como mecanismo de comunicación usando JSON y función(es) Lambda ✓
+    No requiere guardar información entre sesiones (sin capa de persistencia) ✓
+    Se debe de poder definir el nombre de los jugadores ✓
+    Se define el primero en jugar mediante un “volado”   ≈≈≈
+    Se pueden jugar a 5 partidas ✓
+    El ganador de la partida anterior empieza la siguiente ≈≈≈
+    La interfaz puede ser gráfica+ o de texto con representación del tablero en forma semi-gráfica (version gráfica de consola) ✓✓
     La documentación deberá contener
         Definición del proyecto
         Requerimientos funcionales y no funcionales
