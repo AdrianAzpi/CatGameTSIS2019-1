@@ -20,15 +20,15 @@ Criterios de Calificación
     El ganador de la partida anterior empieza la siguiente ≈≈≈
     La interfaz puede ser gráfica+ o de texto con representación del tablero en forma 
     semi-gráfica (version gráfica de consola) ✓✓
-    La documentación deberá contener
-        Definición del proyecto
-        Requerimientos funcionales y no funcionales
-        Análisis del problema
+    La documentación deberá contener ✓
+        Definición del proyecto ✓
+        Requerimientos funcionales y no funcionales ✓
+        Análisis del problema ✓ 
         Diseño
-            algoritmos
-            diagramas de clase y paquetes (UML)
-            diagramas de actividades y casos de uso (UML)
-            definición de los objetos serializados de interfaz (JSON de entrada y salida)
+            algoritmos ✓ 
+            diagramas de clase y paquetes (UML). ✓
+            diagramas de actividades y casos de uso (UML)   ✓
+            definición de los objetos serializados de interfaz (JSON de entrada y salida) ✓ 
         Diseño de interfases de usuario
         Control de versiones
         Demo en clase
